@@ -2,7 +2,7 @@
 
 > With this Collab sheet you can Upload any file to your Gdrive without downloading it on your local system.
 
-# Hey Everyone!
+## Hey Everyone!
 
 With this Collab sheet you can **Upload any file to your Gdrive without downloading** it on your *local system*.
 
@@ -12,6 +12,6 @@ With this Collab sheet you can **Upload any file to your Gdrive without download
 
 > Even if you don't have a premium mega account, still you can transfer a mega file but transfer quota restrictions will be applied.
 
-# Url File to Gdrive Instruction:
+## Url File to Gdrive Instruction:
 
 > To paste your URL, replace the the text part "REPLACE_ME_WITH_YOUR_URL" in the code with your original URL and then run the cell.
